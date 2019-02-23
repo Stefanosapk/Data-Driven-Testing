@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e1f533d7-7811-459e-9e4c-118953327db9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/tdd/test/dataDriven.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/tdd/test/dataDriven.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/tdd/test/testSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/tdd/test/testSample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/tdd/test/dataDriven.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/tdd/test/dataDriven.class" afterDir="false" />
-    </list>
+    <list default="true" id="e1f533d7-7811-459e-9e4c-118953327db9" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -32,8 +27,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/tdd/test/dataDriven.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
+            <state relative-caret-position="554">
+              <caret line="87" column="9" lean-forward="true" selection-start-line="87" selection-start-column="9" selection-end-line="87" selection-end-column="9" />
               <folding>
                 <element signature="e#644#652#0" expanded="true" />
               </folding>
@@ -66,8 +61,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/test/java/com/tdd/test/dataDriven.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/tdd/test/testSample.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/tdd/test/dataDriven.java" />
       </list>
     </option>
   </component>
@@ -206,7 +201,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info id="UI Designer" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13965885" />
@@ -217,7 +213,7 @@
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32827735" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.18201517" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3990878" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -225,7 +221,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32719395" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32681242" />
       <window_info anchor="right" id="Palette" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -253,8 +249,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/tdd/test/dataDriven.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
+        <state relative-caret-position="554">
+          <caret line="87" column="9" lean-forward="true" selection-start-line="87" selection-start-column="9" selection-end-line="87" selection-end-column="9" />
           <folding>
             <element signature="e#644#652#0" expanded="true" />
           </folding>
