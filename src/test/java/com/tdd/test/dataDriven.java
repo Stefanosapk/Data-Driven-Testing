@@ -22,7 +22,7 @@ public class dataDriven {
     public ArrayList<String> getData(String testcaseName) throws IOException {
         ArrayList<String> array = new ArrayList<String>();
 
-        FileInputStream fis = new FileInputStream("/home/mhosp/Desktop/tdd.xlsx");
+        FileInputStream fis = new FileInputStream("C:\\Users\\Steve\\Desktop\\workbook.xlsx");
 
         XSSFWorkbook workbook = new XSSFWorkbook(fis);
 
@@ -31,7 +31,7 @@ public class dataDriven {
 
         for (int i = 0; i < sheets; i++) {
 
-            if (workbook.getSheetName(i).equalsIgnoreCase("TestData"))
+            if (workbook.getSheetName(i).equalsIgnoreCase("Sheet1"))
 
             // here 'TestData' is SheetName of Excel file
 
@@ -53,7 +53,7 @@ public class dataDriven {
 
                     Cell value = ce.next();
 
-                    if (value.getStringCellValue().equalsIgnoreCase("Testcases")) {
+                    if (value.getStringCellValue().equalsIgnoreCase("Hotel")) {
 
                         column = k;
 

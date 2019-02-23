@@ -10,7 +10,7 @@ public class testSample {
         dataDriven d = new dataDriven();
 
         //apothikeuw ta data se tupou arraylist gt erxontai hdh apothikeumena apo arraylist
-        ArrayList data = d.getData("Delete profile");
+        ArrayList data = d.getData("Costa");
         System.out.println(data.get(0));
         System.out.println(data.get(1));
         System.out.println(data.get(2));
